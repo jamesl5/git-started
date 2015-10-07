@@ -1,7 +1,9 @@
 	body {
         font-family: Helvetica, sans-serif;
         font-size: 18px;
+		text-align: center;
     }
     img {
         max-width: 600px;
     }
+	
